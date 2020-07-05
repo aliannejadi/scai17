@@ -47,8 +47,6 @@ In Stage 1, we provide to the participants an extended version of the Qulacdatas
 Dataset statistics:
 <img src="train_stats.png">
 
-<img src="test_stats.png">
-
 TODO: finish description
 
 ## Stage 2
